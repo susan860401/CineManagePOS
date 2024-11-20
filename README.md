@@ -11,3 +11,9 @@
 - **框架**：.NET Framework (Windows Forms)
 - **資料庫**：SQL Server
 
+## 展示影片
+
+為了更直觀地了解系統的操作流程，您可以觀看以下展示影片：
+
+[點擊這裡觀看展示影片](https://youtu.be/NPdToPJx7Yg)
+
